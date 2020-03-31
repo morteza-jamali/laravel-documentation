@@ -7,7 +7,7 @@
 
 ## Laravel documentation
 
-This is offline **Laravel** documentation . I downloaded Laravel website and converted it to PDF format . I'll update this documentation when Larval updates .
+This is offline **Laravel** documentation . I downloaded Laravel website and converted it to PDF format . I'll update this documentation when Laravel updates .
 
 ## Usage
 
